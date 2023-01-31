@@ -18,7 +18,9 @@ const Search = () => {
         height: "100vh",
       }}
     >
+      
       <Grid container spacing={3}>
+        <h1>BUSCANDO USUARIOS</h1>
         <Grid item xs={12}>
           <TextField
             label="Buscar usuario de github"
